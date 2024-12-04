@@ -1,4 +1,4 @@
-# Festival-Sales-Anslysis-using-python--EDA
+# Festival-Sales-Analysis-using-python--EDA
 Did Exploratory Data Analysis of a dataset to analyze and Visulize sales of an online e comm patoform.
 Below are the insights:
 
